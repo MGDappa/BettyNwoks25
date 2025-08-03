@@ -1,2 +1,2 @@
-# BettyNwoks25
+# BettyNwoksPrize25
 a basic introducation on Git Github 
